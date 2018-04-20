@@ -28,7 +28,7 @@ As mentioned, this proposal is intended as a combined project and master thesis.
 4. Get familiar with some kinematic control schemes from the literature survey through simulations.
 5. Investigate a couple of kinematic control schemes, building on already developed vessel speed controllers.
 
-Note that the problem formulation is quite broad, and can be tailored to the candidate's interests.
+Note that the problem formulation is quite broad and will be tailored to the candidate's interests.
 
 The formulation of the master thesis will depend on the results from the project assignment, and will be defined at the end of the autumn. Depending on the results, full-scale tests in the Trondheimsfjord can be part of the master thesis.
 

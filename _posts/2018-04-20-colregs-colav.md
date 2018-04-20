@@ -37,4 +37,4 @@ The candidate will be associated with the AUTOSEA project, which is a collaborat
 
 ## Supervisors 
 Main supervisor: [Morten Breivik](http://www.ntnu.no/ansatte/morten.breivik). <br />
-Co-supervisors: [Bjørn-Olav H. Eriksen](http://www.ntnu.no/ansatte/boerikse) and [Øystein Engelhardtsen (DNV-GL)](mailto:Oystein.Engelhardtsen@dnvgl.com)
+Co-supervisors: [Bjørn-Olav H. Eriksen](http://www.ntnu.no/ansatte/boerikse)
