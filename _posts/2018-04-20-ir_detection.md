@@ -41,5 +41,5 @@ This is a list of *recommended* prerequisites for this master project.
 The candidate will be associated with the AUTOSEA project, which is a collaborative research project between NTNU, DNV GL, Kongsberg Maritime and Maritime Robotics, focused on achieving world-leading competence and knowledge in the design and verification of methods and systems for sensor fusion and COLAV for ASVs. The project has access to supervision and physical test platforms through our industry partners.
 
 ## Contact
-Main supervisor [Edmund F. Brekke](http://www.ntnu.no/ansatte/edmundfo)
+Main supervisor [Edmund F. Brekke](http://www.ntnu.no/ansatte/edmundfo)<br />
 Co-supervisor [Håkon Hagen Helgesen](https://www.ntnu.no/ansatte/hakon.helgesen)
