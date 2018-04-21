@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Surveillance of the Channel
+title: Surveillance of the Canal
 category: SF
 ---
 ## Background
-Researchers at NTNU are currently developing an autonomous ferry designed for carrying pedestrians and cyclists between Ravnkloa and Brattøra. The development of a robust collision avoidance system for this ferry will benefit from a thorough analysis of traffic patterns in the channel. For this purpose a radar and a camera has been placed at Ravnkloa. 
+Researchers at NTNU are currently developing an autonomous ferry designed for carrying pedestrians and cyclists between Ravnkloa and Brattøra. The development of a robust collision avoidance system for this ferry will benefit from a thorough analysis of traffic patterns in the canal. For this purpose a radar and a camera has been placed at Ravnkloa.
  
 ![Brattøra]({{site.url}}/assets/brattora.jpg)
 
 ## Scope
-The goal of this project is to provide an analysis of the traffic in the Channel, by accessing data recorded by this system. 
+The goal of this project is to provide an analysis of the traffic in the Canal, by accessing data recorded by this system.
 
 ## Proposed Tasks
 1. Implement a detector for extracting measurements of surface vessels in radar and/or camera data from the sensor station at Ravnkloa.
-2. Implement a tracking method in order to keep track of how different vessels in the Channel move.
+2. Implement a tracking method in order to keep track of how different vessels in the Canal move.
 3. Generate statistics concerning how many vessels there are at different times of the day or the week, what are the most common routes/maneuvers, etc.
 4. Write report.
 
