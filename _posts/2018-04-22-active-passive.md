@@ -34,7 +34,7 @@ Useful, but not required, background knowledge:
 - Additional courses in statistics, algorithms development and/or artificial intelligence.
 - Experience with radar systems or machine vision.
 
-This is a challenging but extremely important project.
+This is a challenging but extremely important project. You must be comfortable with hardware and software to succeed with this project, which will contribute to define the standards for how autonomous vehicle are to perceive the world. 
 
 ## Autosea
 The candidate will be associated with the AUTOSEA project, which is a collaborative research project between NTNU, DNV GL, Kongsberg Maritime and Maritime Robotics, focused on achieving world-leading competence and knowledge in the design and verification of methods and systems for sensor fusion and COLAV for ASVs. The project has access to supervision and physical test platforms through our industry partners.
