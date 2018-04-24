@@ -10,7 +10,7 @@ A main goal of the Autosea project is to include sensor fusion between active se
 ![Sensor-rigg]({{site.url}}/assets/sensorrigg.jpeg)
 
 ## Scope
-The goal of this project is to develop a system for fusion between a 360 camera rig and a radar onboard Maritime Robotics' test vehicle Telemetron.
+The goal of this project is to develop a system for fusion between a 360 camera rig and a radar onboard Maritime Robotics' test vehicle Telemetron. The work will build upon a previous specialization project and master thesis on lidar-camera fusion. 
 
 ## Proposed Tasks for the 5th year project
 
