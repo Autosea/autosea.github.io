@@ -7,6 +7,8 @@ category: SF
 The Autosea project in colloboration with [AMOS](http://ntnu.edu/amos) aims to build knowledge that enables autonomous collision avoidance for maritime surface vehicles. Target tracking is an important capability of autonomous vehicles moving in environments with traffic, as the autonomous vehicle needs to keep track of all other moving objects in its vicinity, and predict their future movement. Target tracking entails processing of data from various exteroceptive sensors, such as radar, lidar or camera. 
 A main goal of the Autosea project is to include sensor fusion between active sensors (e.g., radar) and passive sensors (e.g., camera) as part of the collision avoidance system.
 
+![Sensor-rigg]({{site.url}}/assets/sensorrigg.jpeg)
+
 ## Scope
 The goal of this project is to develop a system for fusion between a 360 camera rig and a radar onboard Maritime Robotics' test vehicle Telemetron.
 
