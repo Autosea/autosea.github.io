@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Uncertainty management in scenario-based MPC for collision avoidance
+title: Risk based collision avoidance using Reachable sets and Bayesian methods 
 category: COLAV
 ---
 ## Background
