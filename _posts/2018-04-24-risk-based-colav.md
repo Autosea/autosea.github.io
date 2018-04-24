@@ -47,7 +47,8 @@ The candidate will be associated with the AUTOSEA project, which is a collaborat
 ## Contact
 * Main supervisor [Edmund F. Brekke](http://www.ntnu.no/ansatte/edmundfo)
 * Co-supervisor [Simen Eldevik](Simen.Eldevik@dnvgl.com)
-This project is proposed by DNV GL.
+
+This project is proposed by DNV GL. It is strongly related to the project <a href="http://autosea.github.io/colav/2017/04/19/uncertainty-management/">"Uncertainty management in scenario-based MPC for collision avoidance"</a>. If two students want to cooperate, these two projects will make a good combination.
 
 ## References
 
