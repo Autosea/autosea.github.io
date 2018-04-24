@@ -10,7 +10,7 @@ A main goal of the Autosea project is to include sensor fusion between active se
 ![Sensor-rigg]({{site.url}}/assets/sensorrigg.jpeg)
 
 ## Scope
-The goal of this project is to develop a system for fusion between a 360 camera rig and a radar onboard Maritime Robotics' test vehicle Telemetron. The work will build upon a previous specialization project and master thesis on lidar-camera fusion. 
+The goal of this project is to develop a system for fusion between a 360 camera rig and a radar onboard Maritime Robotics' test vehicle Telemetron. The work will build upon a previous specialization project and master thesis on lidar-camera fusion.
 
 ## Proposed Tasks for the 5th year project
 
@@ -42,4 +42,5 @@ This is a challenging but extremely important project. You must be comfortable w
 The candidate will be associated with the AUTOSEA project, which is a collaborative research project between NTNU, DNV GL, Kongsberg Maritime and Maritime Robotics, focused on achieving world-leading competence and knowledge in the design and verification of methods and systems for sensor fusion and COLAV for ASVs. The project has access to supervision and physical test platforms through our industry partners.
 
 ## Contact
-For more information, contact main supervisor [Edmund F. Brekke](http://www.ntnu.no/ansatte/edmundfo)
+Main supervisor: [Edmund F. Brekke](http://www.ntnu.no/ansatte/edmundfo)<br>
+Co-supervisors: Arild Hepsø (Maritime Robotics) and Kenan Trnka (Maritime Robotics)
