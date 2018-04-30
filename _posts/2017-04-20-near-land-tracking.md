@@ -27,7 +27,8 @@ The tasks for the master thesis will be finalized during the autumn project, but
 - Test the methods on a more challenging data set.
 - Write thesis.
 
-![Results from last year]({{site.url}}/assets/autonomousandferry.png)
+<img src="{{site.url}}/assets/autonomousandferry.png" width="700">
+
 
 ## Prerequisites
 Required background knowledge:
