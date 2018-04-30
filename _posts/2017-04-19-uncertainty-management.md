@@ -35,10 +35,13 @@ Tasks for the master’s project:
 4. If time permits, elaborate the risk measure with additional sensor fusion uncertainties etc.
 5. Write report.
 
-
 ## Autosea
 The candidate will be associated with the AUTOSEA project, which is a collaborative research project between NTNU, DNV GL, Kongsberg Maritime and Maritime Robotics, focused on achieving world-leading competence and knowledge in the design and verification of methods and systems for sensor fusion and COLAV for ASVs. The project has access to supervision and physical test platforms through our industry partners.
 
 ## Contact
 - Main supervisor [Edmund F. Brekke](http://www.ntnu.no/ansatte/edmundfo)
 - Co-supervisor [Giorgio Kufoalor](https://www.ntnu.edu/employees/kufoalor)
+
+|<img src="{{site.url}}/assets/giorgio-den-helder.jpeg" width="700">|
+|:---:|
+|Giorgio Kufoalor during field trials in Netherlands when the SB-MPC method was tested by Maritime Robotics under direction of the Dutch navy. |
