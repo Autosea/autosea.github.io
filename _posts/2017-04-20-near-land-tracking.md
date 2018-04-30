@@ -29,7 +29,7 @@ The tasks for the master thesis will be finalized during the autumn project, but
 
 |<img src="{{site.url}}/assets/autonomousandferry.png" width="700">|
 |:---:|
-|Tracking results and ships being tracked|
+|Tracking results and ships being tracked. A key challenge is to initialise tracks on all boats while avoiding to initialise any false tracks.|
 
 
 ## Prerequisites
